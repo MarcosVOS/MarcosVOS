@@ -35,6 +35,8 @@
   <img align="center" alt="FastApi" src="https://img.shields.io/badge/fastapi-6DB33F?style=for-the-badge&logo=fastapi&logoColor=white">
   <img align="center" alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img align="center" alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
+  <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" >
+
 </div>
 
 ### Database
@@ -59,15 +61,15 @@
 </div>
 <br>
 
-
-### Sou estudante de desenvolvimento,amo a area da tecnologia e ainda mais construir algo e ver a ideia saindo do papel  
-
-<br>
+## Sobre mim 
+### Aualmente em busca de aperfeiçoar nas tecnologias que eu já conheço e sempre em busca de aprender novas tecnologias pois amo isso   
 
 ## 👨🏻‍💻 &nbsp;Tech que eu estou estudando
-<div style="display: inline_block"><br>
+### Atualmente estudando um pouco mais sobre segurança de aplicações web e sobre machine learning e Data Science 
+<!-- <div style="display: inline_block"><br>
   <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" >
-</div>
+</div> -->
+
 
 ## ⚙️ &nbsp;GitHub Analytics
 
