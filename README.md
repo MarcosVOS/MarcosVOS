@@ -3,7 +3,10 @@
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosoliveiradeveloper/) -->
 
-![MarcosVOS GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosVOS&show_icons=true&theme=highcontrast)
+<p align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=MarcosVOS&show_icons=true&theme=highcontrast" alt="MarcosVOS GitHub stats"/><br/>
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosVOS&layout=compact&theme=highcontrast" alt="MarcosVOS most used languages"/>
+</p>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -54,13 +57,3 @@
 
 ## 👨🏻‍💻  Tecnologias em Estudo
 ### No momento, estou focado em aprofundar meus conhecimentos em segurança de aplicações web, além de explorar os campos de machine learning e data science.
-<!-- <div style="display: inline_block"><br>
-  <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" >
-</div> -->
-
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosVOS&layout=compact&theme=highcontrast" alt="MarcosVOS's most languages"/>
-</p>
