@@ -29,9 +29,12 @@
 
 ## 🚀 Featured Projects
 
-- 🔐 [SecureBank API](https://github.com/MarcosVOS/antifraud) – Fraud detection system with Spring Boot and Prometheus/Grafana observability.
-- 🎨 [Image-to-Audio AI](https://github.com/MarcosVOS/img2audioAPI) – Upload an image and get generated speech using FastAPI + OpenAI + TTS.
+- 🔐 [SecureBank API](https://github.com/MarcosVOS/antifraud) – Fraud detection system with Spring Boot and Prometheus/Grafana observability.  
+  → Helps detect suspicious transactions in real-time to prevent financial fraud.
 
+- 🎨 [Image-to-Audio AI](https://github.com/MarcosVOS/img2audioAPI) – Upload an image and get generated speech using FastAPI + OpenAI + TTS.  
+  → Transforms visual information into audio to improve accessibility and creative projects.
+  
 ---
 
 ## 📚 Currently Learning
