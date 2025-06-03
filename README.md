@@ -27,15 +27,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=MarcosVOS&show_icons=true&theme=highcontrast" alt="MarcosVOS GitHub stats"/><br/>
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosVOS&layout=compact&theme=highcontrast" alt="MarcosVOS most used languages"/>
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 - 🔐 [SecureBank API](https://github.com/MarcosVOS/antifraud) – Fraud detection system with Spring Boot and Prometheus/Grafana observability.
@@ -48,13 +39,3 @@
 - Web application security (OWASP Top 10, secure coding)
 - Machine Learning (Scikit-learn, TensorFlow, model deployment)
 - DevOps & Observability (Grafana, Prometheus, GitHub Actions)
-
----
-
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/seu-usuario" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
