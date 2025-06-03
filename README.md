@@ -1,8 +1,6 @@
 
 <h1 align="left">Hi <img src="https://www.emojiall.com/images/240/telegram/1f44b.gif" width="35px">, I'm Marcos</h1>
 
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosoliveiradeveloper/) -->
-
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=MarcosVOS&show_icons=true&theme=highcontrast" alt="MarcosVOS GitHub stats"/><br/>
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosVOS&layout=compact&theme=highcontrast" alt="MarcosVOS most used languages"/>
@@ -52,8 +50,7 @@
   </div>
 
 
-### Sobre Mim
-### Atualmente, estou empenhado em aprimorar minhas habilidades nas tecnologias que já domino, ao mesmo tempo em que continuo explorando novas áreas, pois tenho uma paixão pelo aprendizado constante.
-
-## 👨🏻‍💻  Tecnologias em Estudo
-### No momento, estou focado em aprofundar meus conhecimentos em segurança de aplicações web, além de explorar os campos de machine learning e data science.
+## About Me
+### I am currently focused on improving my skills in the technologies I already master, while also exploring new areas, as I have a passion for continuous learning.
+## 👨🏻‍💻 Technologies I'm Studying
+### At the moment, I’m deepening my knowledge in web application security and exploring the fields of machine learning and data science.
