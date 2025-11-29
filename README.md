@@ -32,9 +32,12 @@
 - 🔐 [SecureBank API](https://github.com/MarcosVOS/antifraud) – Fraud detection system with Spring Boot and Prometheus/Grafana observability.  
   → Helps detect suspicious transactions in real-time to prevent financial fraud.
 
+- 🥗 [Daily Diet API](https://github.com/MarcosVOS/daily-diet-api) – Meal tracking API built with Node.js, Fastify, Knex, and TypeScript.  
+  → Manages diet metrics and user sessions. Features a **CI/CD pipeline** (GitHub Actions) for automated testing/linting/commit validation, **Dockerized** database environment, and comprehensive **Postman** documentation.
+
 - 🎨 [Image-to-Audio AI](https://github.com/MarcosVOS/img2audioAPI) – Upload an image and get generated speech using FastAPI + OpenAI + TTS.  
   → Transforms visual information into audio to improve accessibility and creative projects.
-  
+
 ---
 
 ## 📚 Currently Learning
