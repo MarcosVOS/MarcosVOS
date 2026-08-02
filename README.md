@@ -1,47 +1,48 @@
-<h1 align="center">Hi 👋, I'm Marcos</h1>
-<h3 align="center">Fullstack Developer | Passionate about Learning | Exploring AI & Security</h3>
+<h1 align="center">Marcos Vinicius Oliveira Silva</h1>
+<h3 align="center">Senior Software Engineer · Backend (Go & TypeScript) · AI Chatbots (RAG) & Enterprise SSO</h3>
+
+<p align="center">
+  <a href="https://marckdev.com">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/marcosoliveiradeveloper/">LinkedIn</a> ·
+  <a href="mailto:Marcos.OliveiraDEV@gmail.com">Email</a>
+</p>
 
 ---
 
-## 🚀 About Me
+## About
 
-- 💻 Fullstack developer passionate about backend, APIs, and scalable architecture.
-- 🔒 Enthusiast in application security and clean code principles.
-- 🧠 Currently exploring machine learning and data science.
-- 🎯 Lifelong learner, always building and breaking things to learn more.
-
----
+- 🤖 Building **corporate AI chatbots with RAG, in Go** since 2022 — shipping to Microsoft Teams and Slack.
+- 🔐 Architected multi-tenant enterprise SSO & RBAC (Ping Federation, MSAL, OIDC/SAML) for 7 large clients across banking, healthcare, mining and insurance.
+- ⚡ Cut API response times by **~85%** and payload sizes by **~99.5%** (S3 pre-signed URLs, cursor pagination).
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+**Core — daily drivers**
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,python,java,go,rust" />
-    <img src="https://skillicons.dev/icons?i=html,css,jquery,bootstrap,react,styledcomponents,nextjs,materialui,tailwind" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring" />
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
-    <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,azure" />
-    <img src="https://skillicons.dev/icons?i=git,linux,bash,cypress,selenium,jest,githubactions,postman,docker" />
+    <img src="https://skillicons.dev/icons?i=go,typescript,nodejs,react,nextjs,postgres,mongodb,redis,docker,githubactions,aws" />
   </a>
-</div>
+</p>
 
----
+**Also working with**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,rust,azure,gcp,kubernetes,terraform,kafka,rabbitmq,prometheus,grafana" />
+  </a>
+</p>
+
+<h3 align="center"><sub><b>Observability & more:</b> OpenTelemetry · Jaeger · New Relic · NestJS · GraphQL · gRPC</sub></h3>
 
 ## 🚀 Featured Projects
 
-- 🔐 [SecureBank API](https://github.com/MarcosVOS/antifraud) – Fraud detection system with Spring Boot and Prometheus/Grafana observability.  
-  → Helps detect suspicious transactions in real-time to prevent financial fraud.
+- 🔐 **[AntiFraud API](https://github.com/MarcosVOS/antifraud)** – Fraud-detection REST API in **Java 21 / Spring Boot**.
+  → Transaction & access-log domain, Dockerized, CI with automated tests and Azure deploy.
 
-- 🥗 [Daily Diet API](https://github.com/MarcosVOS/daily-diet-api) – Meal tracking API built with Node.js, Fastify, Knex, and TypeScript.  
-  → Manages diet metrics and user sessions. Features a **CI/CD pipeline** (GitHub Actions) for automated testing/linting/commit validation, **Dockerized** database environment, and comprehensive **Postman** documentation.
+- 🥗 **[Daily Diet API](https://github.com/MarcosVOS/daily-diet-api)** – Meal-tracking API in **Node.js / Fastify / Knex / TypeScript**.
+  → CI/CD enforcing tests, lint and Conventional Commits; Dockerized Postgres; Postman collection.
 
-- 🎨 [Image-to-Audio AI](https://github.com/MarcosVOS/img2audioAPI) – Upload an image and get generated speech using FastAPI + OpenAI + TTS.  
-  → Transforms visual information into audio to improve accessibility and creative projects.
+- 🎨 **[img2audio API](https://github.com/MarcosVOS/img2audioAPI)** – Accessibility API in **Python / FastAPI**.
+  → Turns images into spoken audio — OpenAI Vision for text extraction, TTS for narration.
 
----
-
-## 📚 Currently Learning
-
-- Web application security (OWASP Top 10, secure coding)
-- Machine Learning (Scikit-learn, TensorFlow, model deployment)
-- DevOps & Observability (Grafana, Prometheus, GitHub Actions)
+- 🔑 **[jaws](https://github.com/MarcosVOS/jaws)** – Offline JWT inspection CLI in **Go** · 🚧 active development
+  → Decode & inspect tokens locally, without pasting them into a website — built for SSO work. Multi-OS CI, golangci-lint, ADRs.
