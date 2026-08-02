@@ -1,5 +1,5 @@
 <h1 align="center">Marcos Vinicius Oliveira Silva</h1>
-<h3 align="center">Senior Software Engineer · Backend (Go & TypeScript) · AI Chatbots (RAG) & Enterprise SSO</h3>
+<h3 align="center">Senior Software Engineer · Backend (Go & TypeScript) · AI Chatbots (RAG + MCP) & Enterprise SSO
 
 <p align="center">
   <a href="https://marckdev.com">Portfolio</a> ·
@@ -11,7 +11,7 @@
 
 ## About
 
-- 🤖 Building **corporate AI chatbots with RAG, in Go** since 2022 — shipping to Microsoft Teams and Slack.
+- 🤖 Building corporate AI chatbots in Go since 2022 — RAG for answers, and an MCP server that turns natural language into executed tasks. Shipping to Microsoft Teams and Slack.
 - 🔐 Architected multi-tenant enterprise SSO & RBAC (Ping Federation, MSAL, OIDC/SAML) for 7 large clients across banking, healthcare, mining and insurance.
 - ⚡ Cut API response times by **~85%** and payload sizes by **~99.5%** (S3 pre-signed URLs, cursor pagination).
 
