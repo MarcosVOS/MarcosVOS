@@ -1,6 +1,5 @@
 <h1 align="center">Marcos Vinicius Oliveira Silva</h1>
-<h3 align="center">Senior Software Engineer · Backend (Go & TypeScript) · AI Chatbots (RAG + MCP) & Enterprise SSO
-
+<h3 align="center">Senior Software Engineer · Backend (Go & TypeScript) · AI Chatbots (RAG + MCP) & Enterprise SSO</h3>  
 <p align="center">
   <a href="https://marckdev.com">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/marcosoliveiradeveloper/">LinkedIn</a> ·
