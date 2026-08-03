@@ -34,9 +34,6 @@
 
 ## 🚀 Featured Projects
 
-- 🔐 **[AntiFraud API](https://github.com/MarcosVOS/antifraud)** – Fraud-detection REST API in **Java 21 / Spring Boot**.
-  → Transaction & access-log domain, Dockerized, CI with automated tests and Azure deploy.
-
 - 🥗 **[Daily Diet API](https://github.com/MarcosVOS/daily-diet-api)** – Meal-tracking API in **Node.js / Fastify / Knex / TypeScript**.
   → CI/CD enforcing tests, lint and Conventional Commits; Dockerized Postgres; Postman collection.
 
